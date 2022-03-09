@@ -2,8 +2,7 @@
 
 ## 本代码是大神Valerio Velardo的pytorch实现
 - tensorflow版本 https://github.com/musikalkemist/generating-melodies-with-rnn-lstm
-
-## 数据来源于 https://kern.humdrum.org/
+-  数据来源于 https://kern.humdrum.org/
 
 ## requirement 
 - torch 
